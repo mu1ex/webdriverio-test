@@ -1,0 +1,6 @@
+name: 'mobile-payment-sdk-it'
+description: 'Integration tests for Network International's mobile SDK's'
+author: 'Johnny Peter'
+runs:
+  using: 'node12'
+  main: 'index.js'
